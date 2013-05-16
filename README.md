@@ -2,8 +2,8 @@ colorlist
 =========
 
 This package contains a list of colors in image.color GGBA format.
-The first set of colors is the colors specified by the HTML 4 standard
-The second set of  colors are the colors specified by the CSS3 standard as described in http://www.w3.org/TR/css3-color/#svg-color
+The first set of colors is the colors specified by the HTML 4 standard.
+The second set of  colors are the colors specified by the CSS3 standard as described in http://www.w3.org/TR/css3-color/#svg-color .
 
 This package is go gettable, so one can download the package with the command: 
 `go get github.com/btracey/colors` . 
