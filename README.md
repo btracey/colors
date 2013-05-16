@@ -1,4 +1,4 @@
-colorlist
+colors
 =========
 
 This package contains a list of colors in image.color GGBA format.
